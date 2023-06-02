@@ -6,3 +6,5 @@
 - Experiments
 
 ### Calender Months
+
+- June : The Month Of AI
